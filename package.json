@@ -1,0 +1,24 @@
+{
+  "name": "distmicro",
+  "version": "0.1.0",
+  "description": "Distributed Micro Service for Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TouTrix/DistMicro.git"
+  },
+  "keywords": [
+    "distributed",
+    "microservice",
+    "javascript"
+  ],
+  "author": "TouTrix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TouTrix/DistMicro/issues"
+  },
+  "homepage": "https://github.com/TouTrix/DistMicro#readme"
+}
